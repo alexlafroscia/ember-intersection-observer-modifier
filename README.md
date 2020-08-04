@@ -18,8 +18,6 @@ ember install ember-intersection-observer-modifier
 
 This addon provides an Ember [modifier][ember-modifier] for attaching a [`IntersectionObserver`][intersection-observer] to an element in your Ember template and calling an action when the observer fires.
 
-In the following example, `this.onChange` will be called any time that the element changes size.
-
 ```handlebars
 <div {{observe-intersection this.onChange}} />
 ```
