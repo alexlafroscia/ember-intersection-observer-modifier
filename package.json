@@ -1,6 +1,6 @@
 {
   "name": "ember-intersection-observer-modifier",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Use IntersectionObserver through an Ember Modifier",
   "keywords": [
     "ember-addon",
